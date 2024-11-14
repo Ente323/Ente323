@@ -1,4 +1,4 @@
-## Hi there 👋
+Hey im a Student for Computer Science and im stil learning many things and am open for every help i can get. 
 
 <!--
 **Ente323/Ente323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
